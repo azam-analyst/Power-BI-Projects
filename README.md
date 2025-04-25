@@ -1,2 +1,3 @@
-# Power-BI-Projects
-This repository contains projects built on Power BI with data from different sectors and by utilizing my skills on data transformation, data modelling, DAX code implementation and dashboard creation.
+***Power-BI-Projects***
+This repository contains projects built on Power BI with real data from different sectors. The main purpose of these projects is to showcase my skills on data transformation, data modelling, DAX code implementation and meaningful dashboard creation in Power BI.
+
